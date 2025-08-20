@@ -42,4 +42,5 @@
            MOVE WS-PD      TO WS-EDITED.
            DISPLAY WS-EDITED.
            DISPLAY "TEST COMMIT FOR TEST BUILD".
+           DISPLAY "TEST COMMIT FOR second  TEST BUILD".
            GOBACK.
